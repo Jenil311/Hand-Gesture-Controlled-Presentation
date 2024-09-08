@@ -4,6 +4,6 @@ Import the Following modules:
 HandDetector,
 cv2,
 os and 
-numpy
+numpy.
 
 Run main.py file after importing the modules.

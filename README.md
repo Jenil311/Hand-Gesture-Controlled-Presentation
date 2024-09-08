@@ -1,8 +1,9 @@
 # Hand-Gesture-Controlled-Presentation
 Import the Following modules:
 
-HandDetector
-cv2
-os
-numpy
+1.HandDetector
+2.cv2
+3.os
+4.numpy
+
 Run main.py file after importing the modules.
